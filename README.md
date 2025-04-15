@@ -8,10 +8,6 @@ This template provides a minimal setup to get React working in Vite, TypeScript,
 2. Install dependencies: `npm install`
 3. Start the dev server: `npm run dev`
 
-### Or
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmoinulmoin%2Fvite-react-tailwind-starter)
-
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
